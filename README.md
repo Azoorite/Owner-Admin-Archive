@@ -1,5 +1,5 @@
 # Owner-Admin-Archive
-A MASSIVE archive of my game Owner Admin Island and its other versions, like the failed sequel, the "2009" version, and the unreleased threequel, OAI: A Trip to the Future. Screenshots and videos of older versions, icons, and other things are available here.
+A MASSIVE archive of my game Owner Admin Island and its other versions, like the failed sequel, the "2009" version, the unreleased threequel(s), and more! Screenshots and videos of older versions, icons, and other things are available here.
 
 ***This will be a while until it is FULLY finished. There is much more to be found, probably.***
 
