@@ -1,6 +1,8 @@
 # Owner-Admin-Archive
 A MASSIVE archive of my game Owner Admin Island and its other versions, like the failed sequel, the "2009" version, the unreleased threequel(s), and more! Screenshots and videos of older versions, icons, and other things are available here.
 
+Please note how this is laid out is probably not that well done. But it should be pretty easy to navigate still.
+
 ***This will be a while until it is FULLY finished. There is much more to be found, probably.***
 
 <img width="1660" height="563" alt="image" src="https://github.com/user-attachments/assets/0f2eef31-3400-47da-8e53-30c8ee9967de" />
