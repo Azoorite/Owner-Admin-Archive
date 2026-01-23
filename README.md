@@ -5,7 +5,7 @@ Please note how this is laid out is probably not that well done. But it should b
 
 ***This will be a while until it is FULLY finished. There is much more to be found, probably.***
 
-<img width="1660" height="563" alt="image" src="https://github.com/user-attachments/assets/3b1c52d5-2337-4b5c-b565-76bf216e0feb"/>
+<img width="1660" height="563" alt="image" src="https://github.com/user-attachments/assets/595768cd-559f-48d3-bad0-6405418a9382"/>
 
 
 # Place information (path and status)
