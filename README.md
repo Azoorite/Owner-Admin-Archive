@@ -19,7 +19,7 @@ Please note how this is laid out is probably not that well done. But it should b
 ## Related places - places that are currently or were previously used in OAI1 / 2.
 - Cactus World - `Owner-Admin-Archive/Related places/Cactus World` | Created: June 17th, 2022 | Discontinued? ***Yes***<br>
 - Backup OAI - `Owner-Admin-Archive/Related places/Backup` | Created: July 26th, 2022 | Discontinued? ***Yes***<br>
-- Legacy-V2 - `Owner-Admin-Archive/Related places/Legacy-V2` | Created: October 27th, 2024 | Discontinued? ***No, but not being updated***<br>
+- Legacy-V2 - `Owner-Admin-Archive/Related places/Legacy-V2` | Created: October 27th, 2024 | Discontinued? ***Legacy-V2 will be replaced by Legacy-V1 soon***<br>
 
 ## Unreleased places - places that were not released to the public relating to OAI.
 - The Owner Admin Island Museum - `Owner-Admin-Archive/Unreleased/The OAI Museum` | Created: June 14th, 2022 | Discontinued? ***N/A***
